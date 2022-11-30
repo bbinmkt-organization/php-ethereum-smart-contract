@@ -13,8 +13,8 @@
     "require": {
         "php": ">=7.0",
         "ext-gmp": "*",
-        "sc0vu/web3.php": ">=0.1.4",
-        "web3p/ethereum-tx": ">=0.3.4"
+        "web3p/ethereum-tx": ">=0.3.4",
+        "web3p/web3.php": "^0.1.6"
     },
     "autoload": {
         "psr-4": { "gri3li\\EthereumSmartContract\\": "src" }
